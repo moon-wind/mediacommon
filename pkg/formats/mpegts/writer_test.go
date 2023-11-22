@@ -9,8 +9,8 @@ import (
 	"github.com/asticode/go-astits"
 	"github.com/stretchr/testify/require"
 
-	"github.com/bluenviron/mediacommon/pkg/codecs/h264"
-	"github.com/bluenviron/mediacommon/pkg/codecs/h265"
+	"github.com/moon-wind/mediacommon/pkg/codecs/h264"
+	"github.com/moon-wind/mediacommon/pkg/codecs/h265"
 )
 
 func h265RandomAccessPresent(au [][]byte) bool {

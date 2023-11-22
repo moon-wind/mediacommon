@@ -1,7 +1,7 @@
 package fmp4
 
 import (
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg4audio"
+	"github.com/moon-wind/mediacommon/pkg/codecs/mpeg4audio"
 )
 
 // CodecMPEG4Audio is a MPEG-4 Audio codec.

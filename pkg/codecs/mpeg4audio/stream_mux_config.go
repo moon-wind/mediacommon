@@ -3,7 +3,7 @@ package mpeg4audio
 import (
 	"fmt"
 
-	"github.com/bluenviron/mediacommon/pkg/bits"
+	"github.com/moon-wind/mediacommon/pkg/bits"
 )
 
 // StreamMuxConfigLayer is a layer of a StreamMuxConfig.

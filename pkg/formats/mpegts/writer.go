@@ -8,10 +8,10 @@ import (
 
 	"github.com/asticode/go-astits"
 
-	"github.com/bluenviron/mediacommon/pkg/codecs/h264"
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg1audio"
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg4audio"
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg4video"
+	"github.com/moon-wind/mediacommon/pkg/codecs/h264"
+	"github.com/moon-wind/mediacommon/pkg/codecs/mpeg1audio"
+	"github.com/moon-wind/mediacommon/pkg/codecs/mpeg4audio"
+	"github.com/moon-wind/mediacommon/pkg/codecs/mpeg4video"
 )
 
 const (

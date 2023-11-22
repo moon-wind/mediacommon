@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/aler9/writerseeker"
-	"github.com/bluenviron/mediacommon/pkg/codecs/mpeg4audio"
+	"github.com/moon-wind/mediacommon/pkg/codecs/mpeg4audio"
 	"github.com/stretchr/testify/require"
 )
 

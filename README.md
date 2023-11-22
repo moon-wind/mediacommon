@@ -1,16 +1,16 @@
 # mediacommon
 
-[![Test](https://github.com/bluenviron/mediacommon/workflows/test/badge.svg)](https://github.com/bluenviron/mediacommon/actions?query=workflow:test)
-[![Lint](https://github.com/bluenviron/mediacommon/workflows/lint/badge.svg)](https://github.com/bluenviron/mediacommon/actions?query=workflow:lint)
-[![Go Report Card](https://goreportcard.com/badge/github.com/bluenviron/mediacommon)](https://goreportcard.com/report/github.com/bluenviron/mediacommon)
-[![CodeCov](https://codecov.io/gh/bluenviron/mediacommon/branch/main/graph/badge.svg)](https://app.codecov.io/gh/bluenviron/mediacommon/branch/main)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/bluenviron/mediacommon)](https://pkg.go.dev/github.com/bluenviron/mediacommon#pkg-index)
+[![Test](https://github.com/moon-wind/mediacommon/workflows/test/badge.svg)](https://github.com/moon-wind/mediacommon/actions?query=workflow:test)
+[![Lint](https://github.com/moon-wind/mediacommon/workflows/lint/badge.svg)](https://github.com/moon-wind/mediacommon/actions?query=workflow:lint)
+[![Go Report Card](https://goreportcard.com/badge/github.com/moon-wind/mediacommon)](https://goreportcard.com/report/github.com/moon-wind/mediacommon)
+[![CodeCov](https://codecov.io/gh/moon-wind/mediacommon/branch/main/graph/badge.svg)](https://app.codecov.io/gh/moon-wind/mediacommon/branch/main)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/moon-wind/mediacommon)](https://pkg.go.dev/github.com/moon-wind/mediacommon#pkg-index)
 
-Definitions and functions shared between [gortsplib](https://github.com/bluenviron/gortsplib), [gohlslib](https://github.com/bluenviron/gohlslib) and [MediaMTX](https://github.com/bluenviron/mediamtx), in particular:
+Definitions and functions shared between [gortsplib](https://github.com/moon-wind/gortsplib), [gohlslib](https://github.com/moon-wind/gohlslib) and [MediaMTX](https://github.com/moon-wind/mediamtx), in particular:
 
-* [Codec utilities](https://pkg.go.dev/github.com/bluenviron/mediacommon/pkg/codecs)
-* [Format utilities](https://pkg.go.dev/github.com/bluenviron/mediacommon/pkg/formats)
-* [Bit reader and writer](https://pkg.go.dev/github.com/bluenviron/mediacommon/pkg/bits)
+* [Codec utilities](https://pkg.go.dev/github.com/moon-wind/mediacommon/pkg/codecs)
+* [Format utilities](https://pkg.go.dev/github.com/moon-wind/mediacommon/pkg/formats)
+* [Bit reader and writer](https://pkg.go.dev/github.com/moon-wind/mediacommon/pkg/bits)
 
 ## Specifications
 
@@ -40,6 +40,6 @@ Definitions and functions shared between [gortsplib](https://github.com/bluenvir
 
 ## Related projects
 
-* [MediaMTX](https://github.com/bluenviron/mediamtx)
-* [gortsplib](https://github.com/bluenviron/gortsplib)
-* [gohlslib](https://github.com/bluenviron/gohlslib)
+* [MediaMTX](https://github.com/moon-wind/mediamtx)
+* [gortsplib](https://github.com/moon-wind/gortsplib)
+* [gohlslib](https://github.com/moon-wind/gohlslib)

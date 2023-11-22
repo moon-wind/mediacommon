@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bluenviron/mediacommon/pkg/bits"
+	"github.com/moon-wind/mediacommon/pkg/bits"
 )
 
 const (

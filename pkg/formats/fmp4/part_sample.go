@@ -1,8 +1,8 @@
 package fmp4
 
 import (
-	"github.com/bluenviron/mediacommon/pkg/codecs/av1"
-	"github.com/bluenviron/mediacommon/pkg/codecs/h264"
+	"github.com/moon-wind/mediacommon/pkg/codecs/av1"
+	"github.com/moon-wind/mediacommon/pkg/codecs/h264"
 )
 
 // PartSample is a sample of a PartTrack.
